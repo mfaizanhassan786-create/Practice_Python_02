@@ -14,4 +14,12 @@ print(mydict)
 # Assume one classroom is required for 1 subject.
 #How many classrooms are needed by all the students.
 
+# "python", "java", "C++", "python" ,"JS"
+#"java", "python", "java", "C++", "C"
 
+subjects = {
+    
+"python", "java", "C++", "python" ,"JS"
+"java", "python", "java", "C++", "C"
+}
+print(subjects)
